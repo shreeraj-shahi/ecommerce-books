@@ -21,8 +21,6 @@ Features:
 9. customer can download their order invoice
 
 
-
-
 used program:
 1. Python: 
 2. Django
@@ -32,6 +30,7 @@ used program:
 6. Bootstrap
 7. xhtml2pdf --- for invoice to print in pdf format
 
+Note: Payment is just for demo propose it doesn't really pay.
 
 
 
